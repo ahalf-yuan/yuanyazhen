@@ -1,6 +1,8 @@
-# Hi 👋 !
+```diff
+@@ No winter lasts forever; no spring skips its turn. @@
+```
 
-<small>I'm Yuan</small>
+
 ## Technologies which I use:
 
 ### Frontend Technologies
@@ -38,4 +40,3 @@
 </div>
 
 --- 
-<small> _I am a lifelong learner and I love teaching and inspiring people_. </small>
